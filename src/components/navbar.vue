@@ -3,7 +3,7 @@
   <nav class="navbar">
     <div
       class="navbar-detail d-flex"
-      style="margin-top: -40vw; margin-left: 3vw"
+      style="margin-top: -550px; margin-left: 3vw"
     >
       <router-link to="/" class="nav-link text-dark">Home</router-link>
       <router-link to="/about" class="nav-link text-dark">About</router-link>
