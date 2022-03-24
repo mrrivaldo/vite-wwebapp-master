@@ -14,7 +14,7 @@ import navbar from "./components/navbar.vue";
         width: 1000px;
         height: 720px;
         margin-top: 100px;
-        border-radius: 70px;
+        border-radius: 71px;
       "
     >
       <navbar />
